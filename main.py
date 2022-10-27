@@ -6,6 +6,9 @@ This is for a code review and refactoring exercise
 import math
 import random
 
+import flake8 as flake8
+import pylint as pylint
+
 DEFAULT_LOW = 1
 DEFAULT_HIGH = 10
 
